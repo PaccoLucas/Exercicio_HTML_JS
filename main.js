@@ -18,6 +18,3 @@ function comparaNumero(numeroA, numeroB){
 }
 formEValido = comparaNumero(numeroA, numeroB)
 });
-
-
-
